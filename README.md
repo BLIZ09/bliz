@@ -27,10 +27,10 @@ This project consists of a simple webpage with a "Yes" and "No" button. When the
 ## How to Use 
 
 1. **Download the Files**:
-   - Clone this repository or download the `index.html`, `styles.css`,`yes_style.css`,`yes_page.html` and `script.js` files.
+   - Clone this repository or download the `for my one and only.html`, `styles.css`,`yes_style.css`,`yes_page.html` and `script.js` files.
 
 2. **Open the Project**:
-   - Open the `index.html` file in your web browser.
+   - Open the `for my one and only.html` file in your web browser.
 
 
 ---
@@ -47,7 +47,7 @@ If you use this code as a base for your own project, please give credit where it
 
 ### Files:
 
-- `index.html`: The main HTML file that structures the webpage.
+- `for my one and only.html`: The main HTML file that structures the webpage.
 - `styles.css`: The CSS file that styles the webpage.
 - `script.js`: The JavaScript file that handles the button interactions.
 - `yes_page.html`: The yes page that sturctures the webpage.
